@@ -158,7 +158,7 @@
       <tbody>
         <tr>
           <td><strong>Dependency</strong></td>
-          <td><strong>Recommended version</strong></td>
+          <td><strong>Recommended Version</strong></td>
         </tr>
         <tr>
           <td class="nobr">libtorrent-rasterbar</td>
