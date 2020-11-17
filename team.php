@@ -27,7 +27,7 @@
       <li><b>Name:</b> Zsolt Peter Basak</li>
       <li><b>Role:</b> Forum administrator and owner</li>
       <li><b>Country:</b> <img src="img/flags/hu.svg" alt="Hungarian" class="flag"/></li>
-      <li><b>Mail:</b> zsoltpeterbasak (at) gmail (dot) com</li>
+      <li><b>Mail:</b> zsoltpeterbasak (at) Gmail (dot) com</li>
     </ul>
   </div>
 </fieldset>
